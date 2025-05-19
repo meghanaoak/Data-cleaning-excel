@@ -21,11 +21,10 @@ It focuses on identifying and fixing common data quality issues like duplicates,
    - Standardize date format.
    - Removing unwanted columns.
 
-## 📚 Learning Outcomes:
+# 📚 Learning Outcomes:
    - Understand how to clean small datasets in MS Excel.
    - Get hands-on practice with common data cleaning steps.
    - Prepare data for basic reporting or analysis.
 
-## 🏷️ Tags
-
+# 🏷️ Tags
  `#MS EXCEL` `#DataCleaning` `#BeginnerProject`
